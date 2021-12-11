@@ -1,0 +1,42 @@
+body
+{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    background-color: whitesmoke;
+}
+
+.content
+{
+    margin: auto;
+    width: 1000px;
+    background-color: white;
+}
+
+#loginPage
+{
+
+    background-image: url("../img/4853433.jpg");
+
+    /*background-color: #36096d;*/
+    /*background-image: linear-gradient(315deg, #36096d 0%, #37d5d6 74%);*/
+
+    /*background-color: #f8ceec;*/
+    /*background-image: linear-gradient(315deg, #f8ceec 0%, #a88beb 74%);*/
+
+    /*background-color: #2a2a72;*/
+    /*background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);*/
+}
+
+#panelPage{
+
+    background-image: url("../img/5562006.jpg");
+
+    /*background-image: url("../img/pexels-pixabay-326311.jpg");*/
+    /*width: 500px;*/
+    /*height: 600px;*/
+    /*margin: auto;*/
+    /*position: relative;*/
+    /*top: 100px;*/
+}
